@@ -147,6 +147,9 @@ p, span, li, a{
     .section {
         height: 90vh;
     }
+    .lower .btn1 {
+        margin-bottom: 2px;
+    }
 }
 
 @media only screen and (max-width: 991.2px) {
