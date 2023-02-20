@@ -38,19 +38,19 @@ p, span, li, a{
 }
 
 #slide1 {
-    background: url('../image/bg1.jpg');
+    background: url('../Image/bg1.jpg');
     background-size: cover;
     background-position: center;
 }
 
 #slide2 {
-    background: url('../image/bg2.jpg');
+    background: url('../Image/bg2.jpg');
     background-size: cover;
     background-position: center;
 }
 
 #slide3 {
-    background: url('../image/bg3.jpg');
+    background: url('../Image/bg3.jpg');
     background-size: cover;
     background-position: center;
 }
