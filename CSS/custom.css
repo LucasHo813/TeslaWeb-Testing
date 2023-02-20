@@ -143,6 +143,12 @@ p, span, li, a{
     visibility: hidden;
 }
 
+@media only screen and (max-width: 428px) {
+    .section {
+        height: 80vh;
+    }
+}
+
 @media only screen and (max-width: 991.2px) {
     .logo {
         width: 100px;
